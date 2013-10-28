@@ -3419,6 +3419,60 @@
        x2="279.85861"
        y2="69.660721"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3901"
+       id="linearGradient5414"
+       x1="262.35211"
+       y1="80.673088"
+       x2="265.2861"
+       y2="80.673088"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3921"
+       id="linearGradient5422"
+       x1="270.45853"
+       y1="79.209831"
+       x2="272.55347"
+       y2="79.209831"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3794"
+       id="linearGradient5430"
+       x1="265.69528"
+       y1="72.081673"
+       x2="267.12469"
+       y2="72.081673"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3794"
+       id="linearGradient5438"
+       x1="271.97733"
+       y1="72.342224"
+       x2="274.0813"
+       y2="72.342224"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3901"
+       id="linearGradient5446"
+       x1="276.34976"
+       y1="67.664368"
+       x2="284.26483"
+       y2="67.664368"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4133"
+       id="linearGradient5454"
+       x1="272.00296"
+       y1="62.549591"
+       x2="275.95142"
+       y2="62.549591"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -3433,9 +3487,9 @@
      inkscape:window-height="776"
      id="namedview3041"
      showgrid="false"
-     inkscape:zoom="11.959611"
-     inkscape:cx="264.6177"
-     inkscape:cy="469.61194"
+     inkscape:zoom="47.838444"
+     inkscape:cx="277.16173"
+     inkscape:cy="477.96049"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -4515,20 +4569,26 @@
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
-       id="Fork3Flower4Pedal2"
-       d="m 266.10397,72.562458 c -2.89832,-0.01253 -4.87667,0.472636 -4.49429,3.888086 3.27193,1.190562 4.81816,0.07505 5.16321,-2.738383 z"
-       style="fill:url(#linearGradient5242);fill-opacity:1;stroke:none" />
-    <path
-       sodipodi:nodetypes="cccc"
-       inkscape:connector-curvature="0"
        id="Fork3Flower4Pedal4"
        d="m 266.68927,71.851732 c 0.11989,-1.47137 1.61393,-3.501051 3.88809,-2.989227 0.16071,2.635978 -0.20199,4.499667 -3.17736,3.637242 z"
        style="fill:url(#linearGradient5234);fill-opacity:1;stroke:none" />
     <path
+       style="fill:url(#linearGradient5430);fill-opacity:1;stroke:none"
+       d="m 266.56385,71.036489 c 0.82087,0.575976 0.60501,1.151362 0.20904,2.090369 l -0.91976,0 c -0.26743,-0.866289 -0.29169,-1.532927 0.71072,-2.090369 z"
+       id="Fork3Flower4Seed"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="Fork3Flower4Pedal2"
+       d="m 266.48828,73.094579 c -3.07569,-1.165459 -5.26098,-0.05948 -4.8786,3.355965 3.27193,1.190562 4.81816,0.07505 5.16321,-2.738383 z"
+       style="fill:url(#linearGradient5242);fill-opacity:1;stroke:none" />
+    <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="Fork3Flower4Pedal3"
-       d="m 266.22939,73.335894 c -0.40062,1.483086 0.84406,2.860001 2.59206,3.302783 1.46348,-1.714778 0.65332,-4.317533 -1.46326,-4.431582 -0.82201,0.253677 -1.1288,1.128799 -1.1288,1.128799 z"
+       d="m 266.22939,73.335894 c -0.40062,1.483086 0.84406,2.860001 2.59206,3.302783 1.46348,-1.714778 0.44638,-4.317533 -1.6702,-4.431582 -0.82201,0.253677 -0.92186,1.128799 -0.92186,1.128799 z"
        style="fill:url(#linearGradient5226);fill-opacity:1;stroke:none" />
   </g>
   <g
@@ -4553,6 +4613,12 @@
        d="m 276.47221,78.143744 c -1.21406,2.72065 -2.31487,3.427972 -4.68243,0.668917 0.86057,-1.76418 2.58307,-2.680684 4.68243,-0.668917 z"
        style="fill:url(#linearGradient5282);fill-opacity:1;stroke:none" />
     <path
+       style="fill:url(#linearGradient5422);fill-opacity:1;stroke:none"
+       d="m 271.45532,77.725669 c 1.14009,0.7466 1.12298,1.672785 1.08699,2.968324 l -1.37964,-0.08361 c -0.98031,-1.382988 -0.98575,-1.784177 0.29265,-2.884714 z"
+       id="Fork3Flower3Seed"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
        id="Fork3Flower3Pedal3"
@@ -4568,6 +4634,30 @@
   <g
      id="Fork3Flower1">
     <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="Fork3Flower1Pedal5"
+       d="m 261.96504,75.175419 c 2.44024,1.106233 4.05748,2.698252 1.7141,5.142308 -3.64481,0.545372 -3.05999,-3.391786 -1.7141,-5.142308 z"
+       style="fill:url(#linearGradient5162);fill-opacity:1;stroke:none" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="Fork3Flower1Pedal1"
+       d="m 263.17746,81.362911 c -0.81658,1.37312 -3.04985,1.491552 -5.39316,0.459882 2.28003,-3.4167 4.71717,-2.259204 5.39316,-0.459882 z"
+       style="fill:url(#linearGradient5130);fill-opacity:1;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="Fork3Flower1Pedal4"
+       d="m 263.47011,80.10869 c 1.34142,-2.430367 2.2903,-3.233893 4.97508,-3.470013 0.0131,3.47924 -1.5347,4.795731 -3.42821,4.807849 z"
+       style="fill:url(#linearGradient5154);fill-opacity:1;stroke:none" />
+    <path
+       style="fill:url(#linearGradient5414);fill-opacity:1;stroke:none"
+       d="m 263.80457,78.436395 c 1.61122,1.3532 1.97899,2.558153 0.75253,4.473389 -2.82112,-1.136926 -2.78167,-2.461814 -0.75253,-4.473389 z"
+       id="Fork3Flower1Seed"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="Fork3Flower1Pedal2"
@@ -4576,27 +4666,9 @@
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
-       id="Fork3Flower1Pedal4"
-       d="m 263.47011,80.10869 c 1.34142,-2.430367 2.2903,-3.233893 4.97508,-3.470013 0.0131,3.47924 -1.5347,4.795731 -3.42821,4.807849 z"
-       style="fill:url(#linearGradient5154);fill-opacity:1;stroke:none" />
-    <path
-       sodipodi:nodetypes="cccc"
-       inkscape:connector-curvature="0"
        id="Fork3Flower1Pedal3"
        d="m 264.51529,82.240866 c -0.32883,3.002329 2.25596,4.471505 4.89148,3.637242 0.25468,-3.431603 -3.94173,-6.633343 -4.89147,-3.637242 z"
-       style="fill:url(#linearGradient5146);stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
-    <path
-       sodipodi:nodetypes="ccc"
-       inkscape:connector-curvature="0"
-       id="Fork3Flower1Pedal1"
-       d="m 263.17746,81.362911 c -0.81658,1.37312 -3.04985,1.491552 -5.39316,0.459882 2.28003,-3.4167 4.71717,-2.259204 5.39316,-0.459882 z"
-       style="fill:url(#linearGradient5130);stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
-    <path
-       sodipodi:nodetypes="ccc"
-       inkscape:connector-curvature="0"
-       id="Fork3Flower1Pedal5"
-       d="m 261.96504,75.175419 c 2.44024,1.106233 4.05748,2.698252 1.7141,5.142308 -3.64481,0.545372 -3.05999,-3.391786 -1.7141,-5.142308 z"
-       style="fill:url(#linearGradient5162);fill-opacity:1;stroke:none" />
+       style="fill:url(#linearGradient5146);fill-opacity:1;stroke:none" />
   </g>
   <g
      id="Fork3Flower7"
@@ -4614,10 +4686,16 @@
        d="m 272.87677,57.867164 c 1.9033,1.878632 3.44475,4.724631 -0.18814,6.793699 -2.57761,-2.124538 -1.47459,-4.960374 0.18814,-6.793699 z"
        style="fill:url(#linearGradient5354);fill-opacity:1;stroke:none" />
     <path
+       style="fill:url(#linearGradient5454);fill-opacity:1;stroke:none"
+       d="m 272.5005,64.681767 c -1.04226,-2.194624 -0.42928,-2.923684 1.6723,-4.47339 2.0062,1.461803 2.04906,2.686289 1.42146,4.682427 z"
+       id="Fork3Flower7Seed"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
        id="Fork3Flower7Pedal1"
-       d="m 270.32652,60.082955 c -1.89001,2.999792 -1.44877,5.8575 2.25759,7.629847 2.06454,-3.228889 -1.02256,-6.029039 -2.25759,-7.629847 z"
+       d="m 270.32652,60.082955 c -1.89001,2.999792 -0.82166,5.982922 2.8847,7.755269 2.06454,-3.228889 -1.64967,-6.154461 -2.8847,-7.755269 z"
        style="fill:url(#linearGradient5346);fill-opacity:1;stroke:none" />
     <path
        sodipodi:nodetypes="ccc"
@@ -4635,6 +4713,12 @@
   <g
      id="Fork3Flower6"
      style="stroke:none">
+    <path
+       style="fill:url(#linearGradient5446);fill-opacity:1;stroke:none"
+       d="m 284.26483,68.275101 c -3.13038,2.498577 -6.4322,3.768384 -8.31225,-0.61635 1.27763,-4.589414 5.75421,-3.478716 8.31225,0.61635 z"
+       id="Fork3Flower6Seed"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
     <path
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
@@ -4666,20 +4750,26 @@
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
-       id="Fork3Flower5Pedal1"
-       d="m 272.24966,72.813302 c -1.69846,-1.423263 -3.36387,-1.009234 -4.80785,1.421452 0.99301,1.382273 4.08058,2.036651 4.78694,0.22994 0.16402,-0.329452 -0.0667,-1.311191 0.0209,-1.651392 z"
-       style="fill:url(#linearGradient5322);fill-opacity:1;stroke:none" />
-    <path
-       sodipodi:nodetypes="cccc"
-       inkscape:connector-curvature="0"
        id="Fork3Flower5Pedal3"
        d="m 273.67111,72.520651 c 1.66205,-1.394685 3.08511,-0.537297 4.30616,1.484161 -2.62844,1.489209 -3.36355,1.243031 -4.64062,-0.501688 z"
        style="fill:url(#linearGradient5330);fill-opacity:1;stroke:none" />
     <path
+       style="fill:url(#linearGradient5438);fill-opacity:1;stroke:none"
+       d="m 272.08243,73.210472 c -0.26549,-0.757452 -0.0829,-1.882539 1.18879,-2.196372 1.28663,0.794709 0.73688,1.282373 0.39989,2.656253 z"
+       id="Fork3Flower5Seed"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="Fork3Flower5Pedal1"
+       d="m 272.54231,73.252279 c -1.84479,-2.228055 -3.25935,-1.510922 -4.70333,0.919764 0.99301,1.382273 3.68341,2.099362 4.38977,0.292651 0.16402,-0.329452 0.22595,-0.872214 0.31356,-1.212415 z"
+       style="fill:url(#linearGradient5322);fill-opacity:1;stroke:none" />
+    <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="Fork3Flower5Pedal2"
-       d="m 272.5005,73.168665 c -1.49775,1.158391 -1.01689,2.59567 0.66892,3.679049 1.55498,-1.025827 1.56942,-1.881445 0.50169,-3.595434 z"
-       style="fill:url(#linearGradient5338);stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1.0" />
+       d="m 272.5005,73.168665 c -1.49775,1.158391 -1.01689,2.59567 0.66892,3.679049 1.55498,-1.025827 1.70529,-1.818734 0.63756,-3.532723 z"
+       style="fill:url(#linearGradient5338);fill-opacity:1;stroke:none" />
   </g>
 </svg>
